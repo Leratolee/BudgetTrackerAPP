@@ -19,12 +19,7 @@ The Budget Tracker App is a mobile application developed using Kotlin in Android
 - Android Studio
 - XML for designing layouts
 
- How to Run the Project
-
-1. Download or clone the repository from GitHub
-2. Open the project in Android Studio
-3. Allow Gradle to sync and build the project
-4. Run the application on an emulator or Android device
+ 
 
 Project Structure
 
